@@ -30,7 +30,7 @@ export default function Navbar() {
   }, [])
 
   const openResume = () => {
-    window.open("https://drive.google.com/file/d/1WRt4_Z9fRnhz9f43g9Sz9wYWA32F01C8/view?usp=drive_link", "_blank")
+    window.open("https://drive.google.com/file/d/1d2X9AWMvIjroIk7WEdNM00dN3BApjXgZ/view?usp=sharing", "_blank")
   }
 
   return (
